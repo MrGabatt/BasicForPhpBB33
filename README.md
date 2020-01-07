@@ -1,7 +1,7 @@
-Basic For Phpbb 3.2
+Basic For Phpbb 3.3
 =============================
 
-Style for phpBB 3.2
+Style for phpBB 3.3
 
 Requirements:
 
@@ -66,4 +66,4 @@ either expressed or implied, of the FreeBSD Project.
 ## Autor
 [Arty](https://www.artodia.com)
 
-Ported phpBB 3.2.x version MrGabatt
+Ported phpBB 3.3.x version MrGabatt

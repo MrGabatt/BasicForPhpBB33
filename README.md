@@ -25,7 +25,7 @@ Prerequisites
 To install a color variation, you must first install the Basic style.
 
 ## Download
-https://github.com/MrGabatt/BasicForPhpbb32/archive/master.zip
+https://github.com/MrGabatt/BasicForPhpbb33/archive/master.zip
 
 
 ## License
